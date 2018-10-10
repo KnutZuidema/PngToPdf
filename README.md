@@ -1,5 +1,4 @@
 # PngToPdf
-PNG to PDFconverter
 
 ### Description 
 From a folder with *.PNG image files all images are merged into one PDF.
